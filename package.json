@@ -1,0 +1,15 @@
+{
+  "name": "aud",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/httpd"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
